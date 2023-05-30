@@ -1,4 +1,4 @@
-package lista;
+package gestaoHospital;
 
 public class Node<T> {
 	private T value;

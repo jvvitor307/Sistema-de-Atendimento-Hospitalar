@@ -1,4 +1,4 @@
-package lista;
+package gestaoHospital;
 
 public class ListaEncad<T> {
 	private Node<T> head;
