@@ -1,5 +1,4 @@
-package fila;
-import lista.ListaEncad;
+import gestaoHospital.lista.*;
 public class Fila<T> {
     T val;
     ListaEncad<T> lista = new ListaEncad<>(); 

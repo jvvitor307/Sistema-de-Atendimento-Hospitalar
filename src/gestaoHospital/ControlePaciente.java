@@ -1,6 +1,6 @@
 package gestaoHospital;
 import java.util.Scanner;
-import fila.Fila;
+import gestaoHospital.fila.*;
 public class ControlePaciente {
     private Paciente paci;
     private String nome;
